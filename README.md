@@ -12,7 +12,6 @@ Original implementation please refer to [Deep Learning with Python, 2nd Edition 
 1. [Model Building](#model-building)
 1. [Training](#training)
 1. [Results](#results)
-1. [References](#references)
 1. [Brief Usage Instruction](#brief-usage-instruction)
 
 ## Introduction
@@ -76,4 +75,4 @@ I recorded the training loss for both the generator and discriminator networks f
 ## Brief Usage Instruction
 
 - Please replace any directory path to suit to users' own needs.
-- Under [model-checkpoint](./resources/model-checkpoint/), users can find some model checkpoints. These checkpoints can be used in the model inference section of the notebook or to continue training from the saved point.
+- Under [model-checkpoint](./resources/model-checkpoint/), users can find some model checkpoints. These checkpoints can be used in the `Model Inference` section of the notebook or to continue training from the saved point.
